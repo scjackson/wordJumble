@@ -87,7 +87,7 @@ public class WordJumble {
 		} catch (Exception e) {
 			System.out.println("There was an issue reading the dictionary:");
 			System.out.println(e.getMessage());
-			System.exit(0);
+			System.exit(1);
 		}
 		return validWords;
 	}
