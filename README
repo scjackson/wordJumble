@@ -1,0 +1,4 @@
+To use, pull source and compile with javac WordJumble.java. Run from command line as "java WordJumble <input string>"
+
+Wordlist was taken from http://www.infochimps.com/datasets/word-list-100000-official-crossword-words-excel-readable and is fairly expansive.
+
