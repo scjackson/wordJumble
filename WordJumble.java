@@ -100,7 +100,7 @@ public class WordJumble {
 		if (args.length > 0) {
 			System.out.println(testAllWords(args[0]));
 		} else {
-			System.err.println("Expected usage is 'wordJumble <input string>'");
+			System.err.println("Expected usage is \" java WordJumble <input string>\"");
 			System.exit(1);
 		}
 	}
